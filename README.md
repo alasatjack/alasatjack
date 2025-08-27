@@ -1,7 +1,7 @@
 # 🍀 A.J. Marie D. Daquiado  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="200px" alt="clover gif"/>
+  <img src="https://usagif.com/wp-content/uploads/gifs/clover-leaf-3.gif" width="200px" alt="clover gif"/>
   <h3>Welcome to my GitHub! 🌿</h3>
 </div>
 
@@ -58,6 +58,6 @@ Hi there! 👋 I’m **A.J. Marie Daquiado**, a passionate **Computer Engineerin
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="120px" alt="lucky clover gif"/>  
+  <img src="https://pa1.aminoapps.com/6999/dfae32214a77a2b7b42cc64e3bc40372698a19d1r1-540-250_hq.gif" width="120px" alt="lucky clover gif"/>  
   <h4>✨ Lucky Clover. Lucky Code. Lucky Me. ✨</h4>
 </div>
