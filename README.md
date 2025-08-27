@@ -83,9 +83,6 @@ const designer = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alasatjack&theme=transparent&hide_border=true&background=0D1117&stroke=22C55E&ring=16A34A&fire=22C55E&currStreakLabel=A3A3A3&sideLabels=A3A3A3&currStreakNum=22C55E&dates=A3A3A3&sideNums=16A34A"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alasatjack&custom_title=🌱%20Growth%20Journey&bg_color=0D1117&color=A3A3A3&line=22C55E&point=16A34A&area=true&hide_border=true&area_color=22C55E&title_color=22C55E"/>
-</div>
 
 ---
 
