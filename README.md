@@ -15,8 +15,8 @@
 ## 🍀 About Me
 
 ```javascript
-const ajMarie = {
-    role: "UI/UX Designer & Frontend Developer",
+const A.J.Marie = {
+    role: "UI/UX Designer & Figma Designer",
     education: "Computer Engineering Technology",
     currentFocus: ["User-Centered Design", "Design Systems", "Accessibility"],
     philosophy: "Good design is invisible until it's missing",
