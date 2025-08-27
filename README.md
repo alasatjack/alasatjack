@@ -53,8 +53,6 @@ Hi there! 👋 I’m **A.J. Marie Daquiado**, a passionate **Computer Engineerin
   <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-📍 **Location:** Victorias City, Negros Occidental, Philippines  
-
 ---
 
 <div align="center">
