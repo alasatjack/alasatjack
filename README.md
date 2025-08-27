@@ -5,7 +5,6 @@
 <td align="center" width="50%">
 
 ## 🌟 **What I Do**
-
 ```typescript
 const designer = {
   name: "A.J. Marie D. Daquiado",
@@ -19,9 +18,6 @@ const designer = {
   status: "Available for hire 🍀"
 };
 ```
-
-</td>
-<td align="center" width="50%">
 
 <img src="https://usagif.com/wp-content/uploads/gifs/clover-leaf-3.gif" width="300px" alt="Designer at work"/>
 
