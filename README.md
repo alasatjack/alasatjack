@@ -1,15 +1,5 @@
 # 🍀 A.J. Marie D. Daquiado
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,14,18&height=300&section=header&text=UI/UX%20Designer&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Magic%20🍀&descAlignY=55&descSize=20"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🍀+Creating+Digital+Experiences;🌱+Frontend+Developer;🌿+Turning+Vision+into+Reality;✨+Design+%2B+Code+%3D+Magic&font=JetBrains+Mono&center=true&width=500&height=80&color=22C55E&vCenter=true&pause=1000&size=24&repeat=true" />
-</div>
-
-<br/>
-
 <table align="center">
 <tr>
 <td align="center" width="50%">
@@ -153,7 +143,10 @@ const designer = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,14,18&height=120&section=footer&animation=twinkling"/>
+  <<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150px" alt="Innovation"/>
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,16,10,14&height=120&section=footer&animation=twinkling"/>
 </div>
 
 <div align="center">
