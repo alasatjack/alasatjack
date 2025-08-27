@@ -20,9 +20,16 @@ Hi there! 👋 I’m **A.J. Marie Daquiado**, a passionate **Computer Engineerin
 ## 🍀 Skills & Tools  
 
 ### 💻 Tech Stack & Creative Tools  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,canva,html,css" />
+  <!-- Supported by skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,html,css" alt="figma ai ps html css icons"/>
+  
+  <!-- Custom icons (Canva + Adobe XD) -->
+  <img src="https://img.icons8.com/color/48/canva.png" alt="Canva" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/adobe-xd.png" alt="Adobe XD" width="48" height="48"/>
 </p>
+
 
 ### ✨ Professional Qualities  
 - 🌿 Observant & Detail-Oriented  
