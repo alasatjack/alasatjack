@@ -39,11 +39,4 @@ I’m **A.J. Marie Daquiado**, a passionate **Computer Engineering Technology gr
 📧 **Email:** ajmariedaquiado23@gmail.com  
 📍 **Location:** Victorias City, Negros Occidental, Philippines  
 
----
 
-## 🌸 GitHub Clover Leaf Theme  
-> Just like a four-leaf clover 🌱, I believe in creating projects that bring **luck, creativity, innovation, and impact**. Each repository is a step towards growth, design excellence, and meaningful contribution.  
-
-✨ *“Design with purpose, code with clarity, and grow with optimism.”*  
-
----
