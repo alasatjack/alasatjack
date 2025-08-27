@@ -74,17 +74,6 @@ const ajMarie = {
 
 ---
 
-## 🌿 Recent Projects
-
-<div align="center">
-
-[![Design System Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=clover-design-system&theme=tokyonight&bg_color=f4f9f4&title_color=2d7a3d&icon_color=4a9954&text_color=1a1a1a&border_color=6bb26e&border_radius=15)](https://github.com/yourusername/clover-design-system)
-[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=portfolio-2024&theme=tokyonight&bg_color=f4f9f4&title_color=2d7a3d&icon_color=4a9954&text_color=1a1a1a&border_color=6bb26e&border_radius=15)](https://github.com/yourusername/portfolio-2024)
-
-</div>
-
----
-
 ## 🍀 Let's Grow Together
 
 <div align="center">
@@ -107,42 +96,3 @@ const ajMarie = {
 
 ### 🌱 *"In a field of designs, be a four-leaf clover"* 🍀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2d7a3d&height=120&section=footer&animation=fadeIn"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=2d7a3d&style=for-the-badge&label=Profile+Views)
-
-</div>
-
----
-
-<details>
-<summary>🍀 <b>A little more about me...</b></summary>
-
-```javascript
-const moreFunFacts = {
-    workingOn: [
-        "Building inclusive design patterns",
-        "Creating accessible component libraries",
-        "Researching micro-interactions that delight users"
-    ],
-    
-    designPhilosophy: {
-        principle1: "Every user deserves intuitive experiences",
-        principle2: "Beauty and function must grow together", 
-        principle3: "Good design solves problems silently",
-        principle4: "Accessibility is not optional, it's essential"
-    },
-    
-    currentlyReading: "Design Systems by Alla Kholmatova",
-    favoriteDesignTool: "Figma (but I love them all!)",
-    
-    whenNotDesigning: [
-        "🎨 Sketching UI concepts on paper",
-        "🌱 Tending to my actual plant garden",
-        "📚 Reading about psychology and human behavior",
-        "🍀 Hunting for inspiration in nature"
-    ]
-};
-```
-
-</details>
