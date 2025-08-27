@@ -10,7 +10,7 @@
 const designer = {
   name: "A.J. Marie D. Daquiado",
   role: "UI/UX Designer & Frontend Dev",
-  location: "🇵🇭 Cebu, Philippines",
+ 
   
   superpower: "Transforming ideas into stunning digital experiences",
   philosophy: "Design that works is design that matters",
@@ -23,7 +23,7 @@ const designer = {
 </td>
 <td align="center" width="50%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Designer at work"/>
+<img src="https://usagif.com/wp-content/uploads/gifs/clover-leaf-3.gif" width="300px" alt="Designer at work"/>
 
 **🎯 Currently Open To**
 <br/>
