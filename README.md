@@ -138,15 +138,6 @@ const designer = {
 
   <br/><br/>
   
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150px" alt="Innovation"/>
-  
-</div>
-
-<div align="center">
-  <<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150px" alt="Innovation"/>
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,16,10,14&height=120&section=footer&animation=twinkling"/>
 </div>
 
 <div align="center">
