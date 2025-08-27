@@ -72,8 +72,6 @@ const designer = {
 <div align="center">
   <h2>🌱 **Let's Grow Something Amazing** 🌱</h2>
   
-  <img src="https://readme-typing-svg.demolab.com/?lines=🍀+Ready+to+cultivate+your+vision!;🌿+Let's+design+the+future+together!;✨+Your+next+great+product+starts+here!&font=JetBrains+Mono&center=true&width=500&height=50&color=16A34A&vCenter=true&pause=2000&size=18" />
-  
   <br/><br/>
 
 <table align="center">
