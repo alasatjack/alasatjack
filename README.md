@@ -127,47 +127,6 @@ const CloverDesigner = {
 </tr>
 </table>
 
-### 🍀 Activity Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=vue&background=E8F5E8&border=4CAF50&stroke=2E7D32&ring=1B5E20&fire=388E3C&currStreakNum=1B5E20&sideNums=2E7D32&currStreakLabel=43A047&sideLabels=4CAF50&dates=1B5E20)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🍀 Design Highlights
-
-<div align="center">
-
-### 🎨 Design Process
-
-```mermaid
-graph LR
-    A[🔍 Research] --> B[💡 Ideate]
-    B --> C[✏️ Sketch]
-    C --> D[🎨 Design]
-    D --> E[🔧 Prototype]
-    E --> F[🧪 Test]
-    F --> G[🚀 Launch]
-    G --> A
-    
-    style A fill:#E8F5E8,stroke:#2E7D32
-    style B fill:#E8F5E8,stroke:#388E3C
-    style C fill:#E8F5E8,stroke:#43A047
-    style D fill:#E8F5E8,stroke:#4CAF50
-    style E fill:#E8F5E8,stroke:#66BB6A
-    style F fill:#E8F5E8,stroke:#81C784
-    style G fill:#E8F5E8,stroke:#A5D6A7
-```
-
-### 🌱 Current Projects & Goals
-
-- 🍀 **Design System Library** - Building comprehensive component libraries
-- 🌿 **Accessibility Audit Tools** - Creating inclusive design workflows  
-- 🌱 **Motion Design Studies** - Exploring micro-interactions and animations
-- 🍀 **User Research Toolkit** - Developing research templates and frameworks
-
-</div>
-
 ---
 
 ## 🍀 Let's Grow Together
