@@ -90,7 +90,7 @@ const CloverDesigner = {
 
 ## 🌿 My Design Philosophy
 
-<div align="center">
+<div align="left">
 
 ```
 🍀 Design is not just what it looks like and feels like.
