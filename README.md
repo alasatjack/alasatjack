@@ -160,12 +160,6 @@ const CloverDesigner = {
 
 ### 🌱 Open for Collaborations
 
-I'm always excited to work on projects that make a positive impact! Whether it's:
-- 🍀 **Startup Projects** - Bringing innovative ideas to life
-- 🌿 **Non-profit Initiatives** - Design for social good
-- 🌱 **Open Source Contributions** - Building community resources
-- 🍀 **Mentoring Opportunities** - Sharing knowledge and growing together
-
 </div>
 
 ---
