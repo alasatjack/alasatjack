@@ -135,7 +135,7 @@ const CloverDesigner = {
 ### 🤝 Connect with this Clover Designer
 
 [![Email](https://img.shields.io/badge/📧_Email-1B5E20?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2E7D32)](mailto:ajmariedaquiado23@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-1B5E20?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=388E3C)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-1B5E20?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=388E3C)](https://www.linkedin.com/in/a-j-marie-daquiado-618759197/)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1B5E20?style=for-the-badge&logo=firefox&logoColor=white&labelColor=43A047)](https://yourportfolio.com)
 [![Behance](https://img.shields.io/badge/🎭_Behance-1B5E20?style=for-the-badge&logo=behance&logoColor=white&labelColor=66BB6A)](https://www.behance.net/gallery/229643541/AJ-Portfolio)
 
