@@ -137,8 +137,7 @@ const CloverDesigner = {
 [![Email](https://img.shields.io/badge/📧_Email-1B5E20?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2E7D32)](mailto:ajmariedaquiado23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-1B5E20?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=388E3C)](https://www.linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1B5E20?style=for-the-badge&logo=firefox&logoColor=white&labelColor=43A047)](https://yourportfolio.com)
-[![Dribbble](https://img.shields.io/badge/🎨_Dribbble-1B5E20?style=for-the-badge&logo=dribbble&logoColor=white&labelColor=4CAF50))](https://dribbble.com/yourprofile)
-[![Behance](https://img.shields.io/badge/🎭_Behance-1B5E20?style=for-the-badge&logo=behance&logoColor=white&labelColor=66BB6A)](https://behance.net/yourprofile)
+[![Behance](https://img.shields.io/badge/🎭_Behance-1B5E20?style=for-the-badge&logo=behance&logoColor=white&labelColor=66BB6A)](https://www.behance.net/gallery/229643541/AJ-Portfolio)
 
 ### 💬 Let's Chat About
 
