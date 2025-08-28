@@ -15,7 +15,7 @@
 ---
 ## 🍀 About Me
 
-<div align="center">
+<div align="left">
 
 ```javascript
 const CloverDesigner = {
