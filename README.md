@@ -178,6 +178,5 @@ const CloverDesigner = {
 
 **🌿 Thanks for visiting my digital garden! May your code be bug-free and your designs pixel-perfect! 🍀**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=2E7D32&style=for-the-badge&label=Garden+Visitors)
 
 </div>
