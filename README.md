@@ -13,10 +13,33 @@
 </div>
 
 ---
-###🍀 About Me
+## 🍀 About Me
+
 <div align="center">
 
+```javascript
+const CloverDesigner = {
+    name: "A.J. Marie D. Daquiado",
+    role: "UI/UX Designer & Figma Specialist",
+    education: "Computer Engineering Technology",
+    currentFocus: [
+        "🎨 User-Centered Design",
+        "🌿 Design Systems Architecture", 
+        "♿ Accessibility & Inclusive Design"
+    ],
+    philosophy: "Good design is invisible until it's missing",
+    currentlyLearning: [
+        "🍀 Advanced Prototyping Techniques",
+        "🌱 Design Tokens & Variables",
+        "🌿 Motion Design & Micro-interactions"
+    ],
+    lookingFor: "Opportunities in UI/UX & Product Design",
+    funFact: "Every interface should feel as natural as finding a four-leaf clover 🍀",
+    motto: "Design with purpose, create with passion 💚"
+};
+```
 
+</div>
 
 ### 🌿 Currently Growing in My Digital Garden
 
