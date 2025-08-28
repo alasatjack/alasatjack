@@ -41,6 +41,8 @@ const CloverDesigner = {
 
 </div>
 
+<div align="center">
+    
 ### 🌿 Currently Growing in My Digital Garden
 
 🔍 **User Research & Testing** | 🎨 **Design System Creation** | 📱 **Mobile-First Experiences** | 🍀 **Inclusive Design**
